@@ -12,5 +12,5 @@ members:
 - Tyler
 - Kim
 
-fetch : this
-new : branch
+fetch: this
+new: branch
